@@ -1,8 +1,8 @@
 # misspellings
 
-JavaScript module to serve the list of common misspellings from [Wikipedia: Lists of common misspellings](https://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/For_machines).
+[![Build Status](https://travis-ci.org/io-monad/misspellings.svg?branch=master)](https://travis-ci.org/io-monad/misspellings) [![npm version](https://badge.fury.io/js/misspellings.svg)](https://badge.fury.io/js/misspellings) [![GitHub license](https://img.shields.io/github/license/io-monad/misspellings.svg)](LICENSE)
 
-Be aware: This module is licensed under [GNU GPLv3](https://www.gnu.org/copyleft/gpl.html).
+JavaScript module to serve the list of common misspellings from [Wikipedia: Lists of common misspellings](https://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/For_machines).
 
 ## Installing
 
