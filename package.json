@@ -1,6 +1,6 @@
 {
   "name": "misspellings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of common misspellings from Wikipedia",
   "author": "IRIDE Monad <iride.monad@gmail.com>",
   "license": "GPL-3.0",
