@@ -1,6 +1,6 @@
 # misspellings
 
-[![Build Status](https://travis-ci.org/io-monad/misspellings.svg?branch=master)](https://travis-ci.org/io-monad/misspellings) [![npm version](https://badge.fury.io/js/misspellings.svg)](https://badge.fury.io/js/misspellings) [![GitHub license](https://img.shields.io/github/license/io-monad/misspellings.svg)](LICENSE)
+[![wercker status](https://app.wercker.com/status/95ab8569948e1fea2444aac46c24d7cd/s/master "wercker status")](https://app.wercker.com/project/bykey/95ab8569948e1fea2444aac46c24d7cd) [![npm version](https://badge.fury.io/js/misspellings.svg)](https://badge.fury.io/js/misspellings) [![GitHub license](https://img.shields.io/github/license/io-monad/misspellings.svg)](LICENSE)
 
 JavaScript module to serve the list of common misspellings from [Wikipedia: Lists of common misspellings](https://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/For_machines).
 
